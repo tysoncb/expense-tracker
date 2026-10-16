@@ -3,10 +3,10 @@
 Full stack expense tracker. C# ASP.NET Core REST API, PostgreSQL, React frontend.
 
 ## Tech stack
-API: C# ASP.NET Core Web API, Entity Framework Core
-Database: PostgreSQL
-Frontend: React (Vite)
-Tests: xUnit
+- **API:** C# ASP.NET Core Web API, Entity Framework Core
+- **Database:** PostgreSQL
+- **Frontend:** React (Vite)
+- **Tests:** xUnit
 
 ## v1 scope
 1. Register and login with JWT
